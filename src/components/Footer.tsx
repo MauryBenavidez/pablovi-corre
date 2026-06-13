@@ -1,11 +1,10 @@
-import { Mail, Phone, MapPin, Instagram, MessageCircle } from 'lucide-react';
+import { Mail, MapPin } from 'lucide-react';
 
 const navLinks = {
   event: [
     { label: 'El Evento',    href: '#about' },
     { label: 'Distancias',   href: '#distances' },
     { label: 'Kits',         href: '#kits' },
-    { label: 'Recorrido',    href: '#route' },
     { label: 'Categorías',   href: '#categories' },
   ],
   info: [

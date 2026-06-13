@@ -7,10 +7,6 @@ const faqs = [
     a: 'Pueden participar estudiantes del Instituto Pablo VI, familias, exalumnos, personal del colegio, comunidad de la parroquia. El evento es abierto a toda la comunidad del Pablo VI. La edad mínima para inscribirse como participante es de 13 años.',
   },
   {
-    q: '¿Pueden asistir niños menores de 13 años?',
-    a: 'Sí. Los menores de 13 años pueden acompañar a sus padres o tutores durante el evento, pero no pueden inscribirse como participantes de la caminata o la carrera.',
-  },
-  {
     q: '¿Qué incluye cada kit?',
     a: 'El Kit Básico incluye: dorsal con número, hidratación en ruta y gomitas energéticas. El Kit Completo incluye: remera oficial del evento, dorsal con número, hidratación en ruta y regalos de sponsors.',
   },

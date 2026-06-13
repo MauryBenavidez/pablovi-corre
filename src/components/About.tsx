@@ -65,14 +65,7 @@ export default function About() {
                   </li>
                 ))}
               </ul>
-              <div className="mt-3 pt-3 border-t border-red-200 space-y-1">
-                <p className="text-xs text-brand-red font-semibold">
-                  * Edad mínima para inscribirse: 13 años
-                </p>
-                <p className="text-xs text-gray-500">
-                  Los menores de 13 años pueden acompañar a sus padres o tutores, pero no pueden inscribirse como participantes.
-                </p>
-              </div>
+              
             </div>
 
             <a href="https://forms.gle/4qyY9ZuM6XyaZRZP9" className="btn-primary">
