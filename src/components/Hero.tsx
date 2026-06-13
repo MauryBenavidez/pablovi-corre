@@ -30,7 +30,7 @@ export default function Hero() {
         {/* Logo */}
         <div className="flex justify-center mb-6">
           <img
-            src="/ChatGPT_Image_10_jun_2026,_10_21_57.png"
+            src="logo.png"
             alt="Logo Instituto Pablo VI"
             className="h-44 w-auto object-contain drop-shadow-2xl"
           />
@@ -59,7 +59,7 @@ export default function Hero() {
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-14">
           <a
             href="https://forms.gle/4qyY9ZuM6XyaZRZP9"
-            className="btn-primary text-base px-10 py-4 text-lg font-black shadow-xl shadow-brand-yellow/30"
+            className="btn-primary text-base px-10 py-4 font-black shadow-xl shadow-brand-yellow/30"
           >
             Inscribirme ahora
           </a>

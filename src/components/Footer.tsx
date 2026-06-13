@@ -65,7 +65,7 @@ export default function Footer() {
             <div className="lg:col-span-2">
               <div className="flex items-center gap-4 mb-5">
                 <img
-                  src="/ChatGPT_Image_10_jun_2026,_10_21_57.png"
+                  src="logo.png"
                   alt="Logo Instituto Pablo VI"
                   className="h-16 w-auto object-contain flex-shrink-0"
                 />

@@ -3,36 +3,6 @@ import { X, ChevronLeft, ChevronRight, Images } from 'lucide-react';
 
 const photos = [
   {
-    src: '/DSCN4276.JPG',
-    alt: 'Participantes en la largada — edición 2017',
-    col: 'col-span-2',
-    row: 'row-span-2',
-  },
-  {
-    src: '/DSCN4280.JPG',
-    alt: 'La comunidad Pablo VI lista para correr',
-    col: 'col-span-1',
-    row: 'row-span-1',
-  },
-  {
-    src: '/DSCN4283.JPG',
-    alt: 'Participantes con sus dorsales',
-    col: 'col-span-1',
-    row: 'row-span-1',
-  },
-  {
-    src: '/DSCN4296.JPG',
-    alt: 'Entrada en calor grupal antes de la largada',
-    col: 'col-span-2',
-    row: 'row-span-1',
-  },
-  {
-    src: '/DSCN4289.JPG',
-    alt: 'El animador convocando a los participantes en el escenario',
-    col: 'col-span-1',
-    row: 'row-span-1',
-  },
-  {
     src: 'https://i.ibb.co/B5XqxBjX/DSCN4276.jpg',
     alt: 'Foto 4',
     col: 'col-span-1',

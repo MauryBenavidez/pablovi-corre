@@ -32,7 +32,7 @@ export default function Navbar() {
       <div className="container-custom flex items-center justify-between">
         <a href="#" className="flex items-center gap-3 group">
           <img
-            src="/ChatGPT_Image_10_jun_2026,_10_21_57.png"
+            src="logo.png"
             alt="Logo Instituto Pablo VI"
             className="h-12 w-auto object-contain drop-shadow-lg"
           />
