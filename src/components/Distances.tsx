@@ -39,7 +39,7 @@ export default function Distances() {
                 Ideal para familias, principiantes y quienes quieren disfrutar de la jornada en un
                 ambiente festivo. Sin exigencias de ritmo ni tiempo.
               </p>
-              <ul className="space-y-2 mb-6">
+              <ul className="space-y-2 mb-12">
                 {['Apto para mayores de 13 años', 'Sin tiempo límite', 'Hidratación en ruta', 'Kit Básico o Completo'].map(f => (
                   <li key={f} className="flex items-center gap-2 text-sm text-gray-700">
                     <div className="w-2 h-2 rounded-full bg-brand-yellow border border-yellow-400 flex-shrink-0" />
@@ -47,19 +47,14 @@ export default function Distances() {
                   </li>
                 ))}
               </ul>
-              <a
-                href="https://forms.gle/4qyY9ZuM6XyaZRZP9"
-                className="w-full text-center block py-3 rounded-xl font-bold text-sm bg-red-50 text-brand-red hover:bg-brand-red hover:text-white transition-all duration-200"
-              >
-                Inscribirme — 4km
-              </a>
+              
             </div>
           </div>
 
           {/* 8K Competitive */}
           <div
             className="card overflow-hidden flex flex-col ring-4 shadow-2xl"
-            style={{ ringColor: '#FFD100', boxShadow: '0 20px 60px rgba(158,27,34,0.20), 0 0 0 4px #FFD100' }}
+            style={{  boxShadow: '0 20px 60px rgba(158,27,34,0.20), 0 0 0 4px #FFD100' }}
           >
             <div
               className="p-8 text-white text-center relative overflow-hidden"
@@ -105,13 +100,7 @@ export default function Distances() {
                 </p>
               </div>
 
-              <a
-                href="https://forms.gle/4qyY9ZuM6XyaZRZP9"
-                className="w-full text-center block py-3 rounded-xl font-black text-sm text-brand-red-deep transition-all duration-200 shadow-md"
-                style={{ background: '#FFD100' }}
-              >
-                Inscribirme — 8km
-              </a>
+              
             </div>
           </div>
         </div>

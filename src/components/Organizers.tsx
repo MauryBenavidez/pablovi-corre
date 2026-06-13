@@ -5,7 +5,7 @@ const organizers = [
     icon: School,
     name: 'Instituto Pablo VI',
     role: 'Organizador principal',
-    desc: 'Instituto de educación secundaria con más de 50 años formando jóvenes neuquinos con valores y compromiso social.',
+    desc: 'Instituto de educación secundaria con más de 31 años formando jóvenes neuquinos con valores y compromiso social.',
     image: 'https://images.pexels.com/photos/256490/pexels-photo-256490.jpeg?auto=compress&cs=tinysrgb&w=400&h=250&fit=crop',
     iconBg: '#9E1B22',
   },

@@ -7,10 +7,6 @@ const faqs = [
     a: 'Pueden participar estudiantes del Instituto Pablo VI, familias, exalumnos, personal del colegio, comunidad de la parroquia. El evento es abierto a toda la comunidad del Pablo VI. La edad mínima para inscribirse como participante es de 13 años.',
   },
   {
-    q: '¿Cuál es la edad mínima para participar?',
-    a: 'La edad mínima para inscribirse como participante (ya sea en la Caminata Familiar de 4km o en la Prueba Competitiva de 8km) es de 13 años. Los menores de 13 años NO pueden inscribirse como participantes. Los menores de 18 años deben presentar una autorización firmada por su padre, madre o tutor legal.',
-  },
-  {
     q: '¿Pueden asistir niños menores de 13 años?',
     a: 'Sí. Los menores de 13 años pueden acompañar a sus padres o tutores durante el evento, pero no pueden inscribirse como participantes de la caminata o la carrera.',
   },

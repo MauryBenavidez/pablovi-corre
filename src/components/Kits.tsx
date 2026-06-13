@@ -26,7 +26,7 @@ const kits = [
       'Remera oficial del evento',
       'Dorsal con número',
       'Hidratación en ruta',
-      'Comida post-carrera',
+      'Gomitas energéticas',
       'Regalos de sponsors',
     ],
     color: 'from-brand-red-deep to-brand-red',
@@ -98,17 +98,7 @@ export default function Kits() {
                   ))}
                 </ul>
 
-                <a
-                  href="#register"
-                  className={`w-full text-center block py-3 rounded-xl font-bold text-sm transition-all duration-200 ${
-                    kit.featured
-                      ? 'text-brand-red-deep font-black'
-                      : 'bg-red-50 text-brand-red hover:bg-brand-red hover:text-white'
-                  }`}
-                  style={kit.featured ? { background: '#FFD100' } : {}}
-                >
-                  Seleccionar {kit.name}
-                </a>
+                
               </div>
             </div>
           ))}

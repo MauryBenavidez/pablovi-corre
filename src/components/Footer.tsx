@@ -51,10 +51,7 @@ export default function Footer() {
                   <Mail className="w-4 h-4 text-brand-yellow flex-shrink-0" />
                   <span className="italic">pablovicorre@gmail.com</span>
                 </div>
-                <div className="flex items-center gap-3 text-red-200/80 text-sm">
-                  <Phone className="w-4 h-4 text-brand-yellow flex-shrink-0" />
-                  <span className="italic">Teléfono a confirmar próximamente</span>
-                </div>
+                
               </div>
             </div>
           </div>
@@ -84,25 +81,6 @@ export default function Footer() {
                 Un evento deportivo, comunitario y benéfico que une a toda la comunidad
                 del Instituto Pablo VI.
               </p>
-              <div className="flex items-center gap-2">
-                {[
-                  { icon: Instagram,     label: 'Instagram' },
-                  { icon: MessageCircle, label: 'WhatsApp' },
-                  { icon: Mail,          label: 'Email' },
-                ].map(s => (
-                  <a
-                    key={s.label}
-                    href="#contact"
-                    aria-label={s.label}
-                    className="w-9 h-9 rounded-full flex items-center justify-center transition-all duration-200 border border-white/10 hover:border-brand-yellow/60"
-                    style={{ background: 'rgba(255,255,255,0.08)' }}
-                    onMouseEnter={e => (e.currentTarget.style.background = '#9E1B22')}
-                    onMouseLeave={e => (e.currentTarget.style.background = 'rgba(255,255,255,0.08)')}
-                  >
-                    <s.icon className="w-4 h-4 text-white" />
-                  </a>
-                ))}
-              </div>
             </div>
 
             {/* Event links */}

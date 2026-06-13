@@ -13,9 +13,7 @@ export default function Categories() {
             Participantes
           </p>
           <h2 className="section-title text-center">Categorías</h2>
-          <p className="section-subtitle mx-auto text-center">
-            Edad mínima: 13 años. Dos modalidades para todos los niveles.
-          </p>
+          
         </div>
 
         <div className="max-w-2xl mx-auto overflow-hidden rounded-2xl shadow-md border border-gray-200">
@@ -54,7 +52,7 @@ export default function Categories() {
         </div>
 
         <p className="text-center text-gray-400 text-sm mt-6">
-          * Categorías orientativas. Pueden ser ajustadas según inscriptos. Edad mínima: 13 años.
+          * Categorías orientativas. Pueden ser ajustadas según inscriptos. 
         </p>
       </div>
     </section>
