@@ -5,7 +5,7 @@ import About from './components/About';
 import Gallery from './components/Gallery';
 import Distances from './components/Distances';
 import Kits from './components/Kits';
-import Route from './components/Route';
+
 import Categories from './components/Categories';
 import Registration from './components/Registration';
 import Organizers from './components/Organizers';
