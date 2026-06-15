@@ -11,6 +11,7 @@ const kits = [
       'Hidratación en ruta',
       'Gomitas energéticas',
     ],
+    price: '$10.000',
     color: 'from-brand-red to-brand-red-light',
     accent: 'text-brand-red',
     bg: 'bg-red-50',
@@ -29,6 +30,7 @@ const kits = [
       'Gomitas energéticas',
       'Regalos de sponsors',
     ],
+    price: '$30.000',
     color: 'from-brand-red-deep to-brand-red',
     accent: 'text-brand-yellow',
     bg: 'bg-yellow-50',
@@ -79,6 +81,9 @@ export default function Kits() {
                 </div>
                 <h3 className="font-display font-black text-2xl mb-1">{kit.name}</h3>
                 <p className="text-white/70 text-sm">{kit.tagline}</p>
+                <p className="text-3xl font-black mt-4">
+                  {kit.price}
+                </p>
               </div>
 
               {/* Items */}

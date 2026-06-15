@@ -31,10 +31,10 @@ export default function Registration() {
             {/* Price */}
             <div className="text-center">
               <p className="text-white/60 text-sm uppercase tracking-wide mb-2">Costo de inscripción</p>
-              <div className="font-display font-black text-5xl md:text-6xl" style={{ color: '#FFD100' }}>
-                $30.000
+              <div className="font-display font-black text-5xl md:text-5xl" style={{ color: '#FFD100' }}>
+                $10.000 - $30.000
               </div>
-              <p className="text-white/60 text-sm mt-1">por participante · cualquier distancia</p>
+              <p className="text-white/60 text-sm mt-1">por participante · kit basico o kit completo</p>
             </div>
 
             <div className="border-t border-white/10" />

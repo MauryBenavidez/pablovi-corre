@@ -116,11 +116,44 @@ export default function Footer() {
           </div>
 
           <div className="border-t pt-8" style={{ borderColor: 'rgba(255,255,255,0.08)' }}>
-            <p className="text-red-400/40 text-xs text-center">
-              &copy; 2026 Pablo VI Corre · Instituto Secundario Pablo VI, Neuquén, Argentina.
-              Todos los derechos reservados.
-            </p>
-          </div>
+  <div className="text-center space-y-3">
+    <p className="text-red-400/40 text-xs">
+      &copy; 2026 Pablo VI Corre · Instituto Secundario Pablo VI, Neuquén, Argentina.
+      Todos los derechos reservados.
+    </p>
+
+    <div className="mt-4 text-center">
+  <p className="text-gray-400 text-sm">
+    Desarrollado por{' '}
+    <span className="text-brand-yellow font-semibold">
+      Mauricio Benavidez
+    </span>
+  </p>
+
+  <div className="mt-1 flex justify-center gap-4 text-sm">
+    <a
+      href="https://github.com/MauryBenavidez"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="text-gray-400 hover:text-brand-yellow transition-colors"
+    >
+      GitHub
+    </a>
+
+    <span className="text-gray-600">•</span>
+
+    <a
+      href="https://www.linkedin.com/in/mauricio-benavidez-fullstack/"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="text-gray-400 hover:text-brand-yellow transition-colors"
+    >
+      LinkedIn
+    </a>
+  </div>
+</div>
+  </div>
+</div>
         </div>
       </footer>
     </>
