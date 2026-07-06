@@ -206,7 +206,7 @@ export default function Gallery() {
       >
         <img
           src={photo.src}
-          className="w-[620px] h-[420px] object-cover transition-transform duration-500 group-hover:scale-105"
+          className="w-[320px] h-[220px] object-cover transition-transform duration-500 group-hover:scale-105"
           loading="lazy"
         />
       </button>

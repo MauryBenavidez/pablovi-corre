@@ -21,7 +21,7 @@ const features = [
   },
   {
     icon: Award,
-    title: 'Premios y reconocimientos',
+    title: 'Premios',
     desc: 'Medalla finisher, sorteos y regalos de sponsors',
     color: 'bg-yellow-50 text-yellow-700',
   },
@@ -84,7 +84,7 @@ export default function About() {
               <div className="absolute inset-0 bg-gradient-to-t from-brand-red-deep/60 to-transparent" />
               <div className="absolute bottom-4 left-4 bg-white/95 backdrop-blur-sm rounded-xl px-4 py-2 shadow-md">
                 <p className="font-display font-bold text-brand-red-deep text-sm">Neuquén 2026</p>
-                <p className="text-gray-500 text-xs">Sábado 24 de Octubre</p>
+                <p className="text-gray-500 text-xs">Sábado 24 de Octubre 10:00 AM</p>
               </div>
             </div>
 

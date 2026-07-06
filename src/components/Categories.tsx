@@ -1,6 +1,6 @@
 const categories = [
-  { name: 'Caminata Familiar', distance: '4km', cap: 'A confirmar' },
-  { name: 'Prueba Competitiva', distance: '8km', cap: 'A confirmar' },
+  { name: 'Caminata Familiar', distance: '4km', cap: 'A confirmar (limitados)' },
+  { name: 'Prueba Competitiva', distance: '8km', cap: 'A confirmar (limitados)' },
 ];
 
 export default function Categories() {

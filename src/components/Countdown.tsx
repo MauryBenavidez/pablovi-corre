@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 
-// Sábado 24 de Octubre de 2026 — largada 8:00 AM
-const TARGET_DATE = new Date('2026-10-24T08:00:00');
+// Sábado 24 de Octubre de 2026 — largada 10:00 AM
+const TARGET_DATE = new Date('2026-10-24T10:00:00');
 
 interface TimeUnit { value: number; label: string; }
 
@@ -22,7 +22,7 @@ function CountdownCard({ value, label }: TimeUnit) {
   return (
     <div className="flex flex-col items-center">
       <div
-        className="relative rounded-2xl w-20 h-20 sm:w-28 sm:h-28 md:w-32 md:h-32 flex items-center justify-center shadow-lg overflow-hidden border border-white/10"
+        className="relative rounded-2xl w-20 h-20 sm:w-25 sm:h-25 md:w-29 md:h-29 flex items-center justify-center shadow-lg overflow-hidden border border-white/10"
         style={{ background: 'rgba(255,255,255,0.08)' }}
       >
         <div className="absolute inset-0 bg-gradient-to-b from-white/10 to-transparent pointer-events-none" />
@@ -85,7 +85,7 @@ export default function Countdown() {
         </div>
 
         <p className="mt-12 text-white/50 text-sm">
-          Sábado 24 de Octubre de 2026 · Neuquén, Patagonia
+          Sábado 24 de Octubre de 2026 a las 10:00 AM · Neuquén, Patagonia
         </p>
       </div>
     </section>

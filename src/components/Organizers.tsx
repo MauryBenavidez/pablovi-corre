@@ -5,7 +5,7 @@ const organizers = [
     icon: School,
     name: 'Instituto Pablo VI',
     role: 'Organizador principal',
-    desc: 'Instituto de educación secundaria con más de 31 años formando jóvenes neuquinos con valores y compromiso social.',
+    desc: 'Instituto de educación secundaria con más de 32 años formando jóvenes neuquinos con valores y compromiso social.',
     image: 'https://i.ibb.co/wFVKncv0/colegio-pablo-vi-alta-barda-valida-1200-1.webp',
     iconBg: '#9E1B22',
   },
