@@ -64,7 +64,7 @@ export default function Registration() {
             <div className="flex items-start gap-3 bg-brand-yellow/10 border border-brand-yellow/30 rounded-2xl px-5 py-4">
               <Info className="w-5 h-5 text-brand-yellow flex-shrink-0 mt-0.5" />
               <p className="text-brand-yellow text-sm leading-relaxed">
-                El alías es: <b>pablovineuquen.mp</b> (Fabian Tolosa).
+                El alías es: <b>INSTITUTOPABLOVI.NQN</b>
               </p>
             </div>
 

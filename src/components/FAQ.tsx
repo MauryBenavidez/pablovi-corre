@@ -12,7 +12,7 @@ const faqs = [
   },
   {
     q: '¿Cómo se realiza el pago?',
-    a: 'El pago se puede realizar mediante transferencia bancaria o Mercado Pago. Los datos de pago serán publicados próximamente. El comprobante de pago será obligatorio para retirar el kit y participar en el evento.',
+    a: 'El pago se puede realizar mediante transferencia bancaria o Mercado Pago. El comprobante de pago será obligatorio para retirar el kit y participar en el evento.',
   },
   {
     q: '¿Qué sucede si soy menor de edad?',
@@ -25,10 +25,6 @@ const faqs = [
   {
     q: '¿Cuándo y dónde se realiza el evento?',
     a: 'La carrera se realiza el sábado 24 de octubre de 2026 en la ciudad de Neuquén. La largada y llegada es frente al Instituto Secundario Pablo VI. El horario exacto será confirmado próximamente.',
-  },
-  {
-    q: '¿Cuánto cuesta la inscripción?',
-    a: 'El costo de inscripción es de $30.000 por participante, para cualquier distancia. Esta tarifa aplica tanto para la Caminata Familiar (4km) como para la Prueba Competitiva (8km).',
   },
 ];
 
