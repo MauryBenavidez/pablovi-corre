@@ -53,7 +53,7 @@ export default function Hero() {
 
         <div className="inline-flex items-center gap-2 bg-brand-yellow text-brand-red-deep font-bold px-5 py-2.5 rounded-full text-sm md:text-base mb-10 shadow-lg shadow-brand-yellow/30">
           <Calendar className="w-4 h-4" />
-          Sábado 24 de Octubre de 2026 · Neuquén
+          Sábado 31 de Octubre de 2026 · Neuquén
         </div>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-14">

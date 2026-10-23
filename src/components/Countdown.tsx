@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 
-// Sábado 24 de Octubre de 2026 — largada 10:00 AM
-const TARGET_DATE = new Date('2026-10-24T10:00:00');
+// Sábado 31 de Octubre de 2026 — largada 10:00 AM
+const TARGET_DATE = new Date('2026-10-31T10:00:00');
 
 interface TimeUnit { value: number; label: string; }
 
@@ -85,7 +85,7 @@ export default function Countdown() {
         </div>
 
         <p className="mt-12 text-white/50 text-sm">
-          Sábado 24 de Octubre de 2026 a las 10:00 AM · Neuquén, Patagonia
+          Sábado 31 de Octubre de 2026 a las 10:00 AM · Neuquén, Patagonia
         </p>
       </div>
     </section>

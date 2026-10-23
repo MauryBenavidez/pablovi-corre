@@ -4,7 +4,7 @@ const features = [
   {
     icon: Calendar,
     title: 'Fecha del evento',
-    desc: 'Sábado 24 de Octubre de 2026',
+    desc: 'Sábado 31 de Octubre de 2026',
     color: 'bg-red-50 text-brand-red',
   },
   {
@@ -84,7 +84,7 @@ export default function About() {
               <div className="absolute inset-0 bg-gradient-to-t from-brand-red-deep/60 to-transparent" />
               <div className="absolute bottom-4 left-4 bg-white/95 backdrop-blur-sm rounded-xl px-4 py-2 shadow-md">
                 <p className="font-display font-bold text-brand-red-deep text-sm">Neuquén 2026</p>
-                <p className="text-gray-500 text-xs">Sábado 24 de Octubre 10:00 AM</p>
+                <p className="text-gray-500 text-xs">Sábado 31 de Octubre 10:00 AM</p>
               </div>
             </div>
 

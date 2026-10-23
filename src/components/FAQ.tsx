@@ -24,7 +24,7 @@ const faqs = [
   },
   {
     q: '¿Cuándo y dónde se realiza el evento?',
-    a: 'La carrera se realiza el sábado 24 de octubre de 2026 en la ciudad de Neuquén. La largada y llegada es frente al Instituto Secundario Pablo VI. El horario exacto será confirmado próximamente.',
+    a: 'La carrera se realiza el sábado 31 de octubre de 2026 en la ciudad de Neuquén. La largada y llegada es frente al Instituto Secundario Pablo VI. El horario exacto será confirmado próximamente.',
   },
 ];
 
